@@ -1,0 +1,19 @@
+{
+  "name": "cipher-app",
+  "version": "1.0.0",
+  "description": "Application demonstrating various ciphers mimed through code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willechase/cipher-app.git"
+  },
+  "author": "Chase Wille",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willechase/cipher-app/issues"
+  },
+  "homepage": "https://github.com/willechase/cipher-app#readme"
+}
